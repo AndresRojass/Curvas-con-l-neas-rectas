@@ -1,1 +1,1 @@
-# Curvas-con-l-neas-rectas
+# Curvas-con-lineas-rectas
